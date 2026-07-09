@@ -1,0 +1,11 @@
+# Environments & secrets
+.venv/
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Editor/OS
+.vscode/
+.DS_Store
