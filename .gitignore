@@ -9,3 +9,6 @@ __pycache__/
 # Editor/OS
 .vscode/
 .DS_Store
+
+# Local notes
+Langchain/git-push-auth-setup.md
